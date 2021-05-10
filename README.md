@@ -1,4 +1,4 @@
-# fmm
+# Fast Multipole Method
 An implementation of the Fast-Multipole Method (currently works up to 3 levels in a reasonable amount of time)
 
 Authors: Andy Jiang, Georgia Institute of Technology and Andrew C. Simmonett, National Institutes of Health
